@@ -1,9 +1,9 @@
 import 'package:flutter/widgets.dart';
-import 'package:vrouter/src/vlogs.dart';
-import 'package:vrouter/src/vrouter_core.dart';
-import 'package:vrouter/src/vrouter_scope.dart';
-import 'package:vrouter/src/vrouter_vroute_elements.dart';
 
+import '../../vlogs.dart';
+import '../../vrouter_core.dart';
+import '../../vrouter_scope.dart';
+import '../../vrouter_vroute_elements.dart';
 import 'mixin/vrouter_app_mixin.dart';
 
 /// This widget handles most of the routing work
